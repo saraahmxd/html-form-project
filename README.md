@@ -50,11 +50,30 @@
       padding: 8px 15px;
       cursor: pointer;
     }
+
+    /* ✅ Logo styling */
+    #header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    #header img {
+      max-width: 180px;
+      height: auto;
+      display: block;
+      margin: 0 auto 10px auto;
+    }
+
+    #header h2 {
+      margin: 0;
+      color: #0b6b88;
+    }
   </style>
 </head>
 <body>
-  <!-- HEADER -->
+  <!-- HEADER with Logo -->
   <div id="header">
+    <img src="inspirehealth_logo.png" alt="InspireHealth Medical logo">
     <h2>InspireHealth Medical - Patient Information Form</h2>
   </div>
 
@@ -226,4 +245,5 @@
     <button onclick="alert('Contact form coming soon!')">Contact Us</button>
   </div>
 </body>
-</html></html>
+</html>
+
