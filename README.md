@@ -226,4 +226,4 @@
     <button onclick="alert('Contact form coming soon!')">Contact Us</button>
   </div>
 </body>
-</html>
+</html></html>
