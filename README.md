@@ -10,7 +10,6 @@
       max-width: 900px;
     }
 
-    /* Form grid for even spacing */
     form {
       display: grid;
       grid-template-columns: 200px 1fr;
