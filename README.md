@@ -1,11 +1,3 @@
-<!--
-Program name: patient-form.html
-Author: Your Name as it is in the UH roster
-Date created: Date you started it
-Date last edited: The date you submitted it
-Version: (start with 1.0 and change it as you make changes)
-Description: a brief summary of what the document is.
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
