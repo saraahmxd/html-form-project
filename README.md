@@ -228,35 +228,4 @@
   </div>
 </body>
 </html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Thank You</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-      max-width: 900px;
-      text-align: center;
-    }
-    #footer {
-      margin-top: 40px;
-      padding: 15px;
-      background-color: #f0f0f0;
-      text-align: center;
-      border-top: 2px solid #ccc;
-    }
-  </style>
-</head>
-<body>
-  <h2>InspireHealth Medical</h2>
-  <h3>Thank you for your submission.</h3>
 
-  <!-- FOOTER -->
-  <div id="footer">
-    <p>InspireHealth Medical &nbsp;&nbsp; | &nbsp;&nbsp; CONTACT US &nbsp;&nbsp; | &nbsp;&nbsp; FB / Twitter / Instagram</p>
-    <p>PO BOX 63737, Houston TX 77001</p>
-  </div>
-</body>
-</html>
